@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+.container{
+    padding: 2rem;
+    
+    
+}
+.pre-nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    
+}
+button {
+    padding: 1rem 2rem;
+    font-weight: bold;
+    width: 150px;
+}
+h1{
+    color: white;
+
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+.green {
+    color: aqua;
+    font-size: 1.5rem;
+}
+.red {
+    color: red;
+    font-size: 1.5rem;
+}
+.orange {
+    color: orange;
+    font-size: 1.5rem;
+}
